@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo">Titulo Centrado</string>
+    <string name="app_name">ExampleLayouts</string>
+    <string name="Nombre">Nombre del Usuario</string>
+    <string name="DescEstado">Descripción del estado del usuario que ocupa 2-3 líneas completas</string>
+    <string name="verPerfil">Ver Perfil</string>
+    <string name="cargarInfo">Cargar Info</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="localizame">Localizame!</string>
+    <string name="marquesina">Es un ejemplo de texto largo encapsulado en una marquesina.</string>        
+    <drawable name="blue">#0000FF</drawable>
+    <drawable name="green">#00FF00</drawable>
+    <drawable name="cyan">#00FFF7</drawable>
+    <drawable name="darkGreen">#425500</drawable>
+    <drawable name="red">#FF0000</drawable>
+</resources>
