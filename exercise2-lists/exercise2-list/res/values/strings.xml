@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExampleList</string>
+    <string name="TitCabana">La Cabaña Argentina</string>
+    <string name="TextCabana">Excelente calidad y atención al cliente que degustará la exquisitez de la carne argentina de más de 15 años.</string>
+    <string name="TitArroz">Arrocería Marina Ventura</string>
+    <string name="TextArroz">Restaurantes dedicados al arroz hay muchos, pero Marina Ventura es más que una arrocería al uso. Serán sus</string>
+    <string name="TitSushi">Maru Sushi Bar</string>
+    <string name="TextSushi">MARU Sushi Bar se especializa en la elaboración de comida coreana y japonesa, destacando por la variedad.</string>                
+    <drawable name="blue">#0000FF</drawable>
+    <drawable name="green">#00FF00</drawable>
+    <drawable name="cyan">#00FFF7</drawable>
+    <drawable name="darkGreen">#425500</drawable>
+    <drawable name="red">#FF0000</drawable>
+</resources>
