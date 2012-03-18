@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">HelloMap</string>
+    <string name="map_key">08u5DcKkopaBJrD0FEnFTNg6EaK72B1chsB4YYA</string>
+    <string name="map_text">Aquí estoy!</string>
+</resources>
