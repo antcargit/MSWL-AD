@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GeoRssNews</string>
+    <string name="app_nameCard">GeoRssNewsCard</string>
+    <string name="app_nameMap">GeoRssNewsMap</string>
+    <string name="app_nameWeb">GeoRssNewsWeb</string>    
+    <string name="map_key">08u5DcKkopaBJrD0FEnFTNg6EaK72B1chsB4YYA</string>
+    <string name="progress_dialog_tit">Please Wait</string>
+    <string name="progress_dialog_text">waiting for location</string>
+    <string name="notification_text">GeoRssNews News: </string>    
+    <string name="button_map">Show Map</string>
+    <string name="button_web_browser">Open Link</string>
+    <string name="button_startserv">Start Service!</string>
+    <string name="button_stopserv">Stop Service!!</string>
+    <string name="messageservice_started">Service Started.</string>
+    <string name="messageservice_stopped">Service Stopped.</string>
+    <string name="messagecurrent_location">News Location:</string>
+    <string name="messagetheresnoaddress">There\'s no address</string>
+    <string name="messagelocationupdate">Location Updated</string>
+    <string name="messagelocationnotavailable">Location not available!</string>
+    <string name="messagenocoordinates">There are no coordinates</string>
+    <integer name="max_distance">10000</integer>
+    <integer name="map_zoom">5</integer>
+    <string name="earthquake_news_URL">http://earthquake.usgs.gov/earthquakes/catalogs/eqs7day-M5.xml</string>
+    <string name="convert_togeorss_URL">http://ws.geonames.org/rssToGeoRSS?feedUrl=</string>
+    <string name="madrid_elmundo_URL">http://estaticos.elmundo.es/elmundo/rss/madrid.xml</string>
+</resources>
